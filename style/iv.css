@@ -1,0 +1,181 @@
+body
+{
+background-color:#0096FF;
+margin-right:0px;
+font: 12px Verdana, Arial, Helvetica, sans-serif;
+}
+
+a {
+color:none;
+text-decoration:none;
+}
+
+a img /* Toutes les images contenues dans un lien */
+{
+border: none; /* Pas de bordure */
+}
+
+h1
+{
+text-align:center;
+}
+
+h2
+{
+text-align:left;
+text-indent:0px;
+}
+
+#all
+{
+background-color:#ffffff;
+}
+
+	#header1
+	{
+	background-color:#0096FF;
+	width:100%;
+	height:60px;
+	text-align:center;
+	background-image:url(../img/header.png);
+	background-repeat:no-repeat;
+	background-position:20px 2px;
+	}
+
+		#bloc-name
+		{
+			float:right;
+			text-align:right;
+			color:#ffffff;
+			margin-top:10px;
+			margin-right:2px;
+		}
+
+	#header2
+	{
+	clear:both;
+	background-color:#515151;
+	width:100%;
+	height:1px;
+	margin-top:2px;
+	margin-bottom:10px;
+	}
+
+	#corps
+	{
+	margin-top:10px;
+	margin-bottom:30px;
+	margin-left: auto;
+	margin-right: auto;
+	width:650px;
+	/*border:1px solid #000000;*/
+	}
+
+		#menu
+		{
+		width:200px;
+		margin-bottom:5px;
+		margin-left: auto;
+		margin-right: auto;
+		}
+
+			.number /* class des numerations des tableaux */
+			{
+			color:#D9D9D9;
+			}
+
+			#tabcorrige
+			{
+				border-collapse: collapse;
+				text-align:center;
+			}
+
+				#tabcorrige th
+				{
+					font:bold 18px "Times New Roman", Times, serif;
+				}
+
+				#tabcorrige tr td, #tabcorrige tr th
+				{
+					border-collapse: collapse;
+					border:1px solid #D2D2D2;
+					height:30px;
+				}
+
+				#tabcorrige .noteligne
+				{
+					border:none;
+					text-align:center;
+				}
+
+			#notefinale
+			{
+				border:1px solid #C5C6C6;
+				text-align:center;
+			}
+
+				#noterouge
+				{
+					font-size:30px;
+					color:red;
+				}
+
+				#notetotale
+				{
+					font-size:20px;
+				}
+
+			#tabscores
+			{
+				border-collapse: collapse;
+			}
+
+				#tabscores td
+				{
+					border-bottom:1px solid #C5C6C6;
+				}
+
+		#about
+		{
+			text-align:justify;
+			text-indent:35px;
+		}
+
+			#tabpb
+			{
+				border-collapse: collapse;
+			}
+
+				#tabpb td, #tabpb th
+				{
+					border:1px solid #C5C6C6;
+					text-align:center;
+				}
+
+	#footer2
+	{
+	clear:both;			/* La boîte générée va se déplacer sous chacune des boîtes flottantes qui précèdent dans le code source.*/
+	background-color:#515151;
+	width:100%;
+	height:1px;
+	margin-top:10px;
+	margin-bottom:2px;
+	}
+
+	#footer1
+	{
+	font:12px Georgia, serif;
+	padding-top:6px;
+	text-align:center;
+	color:#ffffff;
+	background-color:#0096FF;
+	width:100%;
+	height:60px;
+	}
+
+		#footer1 a
+		{
+		text-decoration:none;
+		color:#ffffff;
+		font-weight:bold;
+		}
