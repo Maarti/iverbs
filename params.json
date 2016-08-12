@@ -1,6 +1,6 @@
 {
   "name": "Iverbs",
   "tagline": "Website for training in the conjugation of English irregular verbs",
-  "body": "\r\n## History\r\n\r\nDuring my second year of Vocational Training Certificate in France (in 2011) we had a weekly test of irregular verbs in English. I decided to create this site to allow my class to practice for this weekly test (conjugation and French translation). \r\n\r\n## Usage\r\n\r\nClick \"Test!\" then \"Test traditionnel\". Fill in the fields then click \"Rendre la copie\" and get a mark.\r\nAll the marks are stored in \"Scores\".\r\n\r\n## Screenshot\r\n\r\n\r\n\r\n## Credits\r\n\r\n[Maarti](http://maarti.net)\r\n\r\n## License\r\n\r\nMIT License\r\n",
+  "body": "## Quick start\r\n\r\n[Click here](http://iverbs.maarti.net) to start using the app.\r\n\r\n## History\r\n\r\nDuring my second year of Vocational Training Certificate in France (in 2011) we had a weekly test of irregular verbs in English. I decided to create this site to allow my class to practice for this weekly test (conjugation and French translation). \r\n\r\n## Usage\r\n\r\nClick \"Test!\" then \"Test traditionnel\". Fill in the fields then click \"Rendre la copie\" and get a mark.\r\nAll the marks are stored in \"Scores\".\r\n\r\n## Screenshot\r\n\r\n![screen](https://raw.githubusercontent.com/Maarti/iverbs/gh-pages/images/iverbs_screenshot.png)\r\n\r\n## Credits\r\n\r\n[Maarti](http://maarti.net)\r\n\r\n## License\r\n\r\nMIT License\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
